@@ -9,7 +9,7 @@ const About = () => {
      <div className="row featurette d-fles justify-content-center align-items-center">
       <div className="col-md-7">
         <h2 className="featurette-heading fw-normal lh-1">It all started hith Icoders idea. <span className="text-body-secondary">It’ll blow your mind.</span></h2>
-        <p className="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+        <p className="lead">Some great placeholder co ntent for the first featurette here. Imagine some exciting prose here.</p>
       </div>
       <div className="col-md-5">
         <img src={Image6} className="img-fluid bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400" height="400"></img>
